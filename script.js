@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
             src: "song.mp3",
             lyrics: 
 [
-  { "time": 18, "line": "Una Beretta pa' seguridad" },
+  { "time": 17, "line": "Una Beretta pa' seguridad" },
   { "time": 21, "line": "Al que se meta le va a tronar, hazte pa' allá" },
   { "time": 26, "line": "Traigo metales como mi 'apá" },
   { "time": 29, "line": "De los cerros la escuela, me fui a enseñar, me fui a inculcar" },
